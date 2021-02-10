@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#🔧 Technologies 
+# 🔧 Technologies 
 
 ![html](https://user-images.githubusercontent.com/61913031/107503720-97274180-6b9a-11eb-9032-23161ab17ddb.png)
 <!--
