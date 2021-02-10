@@ -1,6 +1,6 @@
 # 🔧 Technologies 
 
-![html](https://user-images.githubusercontent.com/61913031/107503720-97274180-6b9a-11eb-9032-23161ab17ddb.png)
+![https://github.com/MattGri/MattGri/edit/main/README.md](https://user-images.githubusercontent.com/61913031/107503720-97274180-6b9a-11eb-9032-23161ab17ddb.png)
 
 <!--
 **MattGri/MattGri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
