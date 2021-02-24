@@ -2,5 +2,5 @@
 
 * HTML
 * CSS
-* JavaSript
+* JavaScript
 * Git
