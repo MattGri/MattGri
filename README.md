@@ -1,7 +1,7 @@
 # 🔧 Technologies 
 
 * HTML
-* CSS
+* CSS / SCSS
 * JavaScript
 * React
 * Git
