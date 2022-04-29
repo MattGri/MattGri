@@ -4,4 +4,5 @@
 * CSS
 * JavaScript
 * React
+* Styled components
 * Git
