@@ -1,8 +1,7 @@
 # 🔧 Technologies 
 
 * Html
-* Css/Sass
+* Css/Sass/Styled Components
 * Javascript/Typescript
 * React
-* Styled components
 * Git
